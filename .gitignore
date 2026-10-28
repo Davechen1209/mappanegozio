@@ -1,0 +1,7 @@
+# database locale: si ricrea con "python -m negozio inizializza"
+*.db
+__pycache__/
+.pytest_cache/
+.venv/
+# segreti (chiave API, PIN dello staff): mai su git
+.env

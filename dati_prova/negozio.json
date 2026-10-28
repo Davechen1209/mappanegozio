@@ -1,0 +1,10 @@
+{
+  "nome": "FULL – Tutto a meno",
+  "piantina": { "larghezza": 1000, "altezza": 600 },
+  "corsie": { "numero": 20, "scaffali": "ABCDEF" },
+  "reparti": [
+    { "codice": "FESTE", "nome": "Articoli per feste", "x": 180, "y": 520 },
+    { "codice": "ABBIGLIAMENTO", "nome": "Abbigliamento", "x": 500, "y": 520 },
+    { "codice": "UNGHIE-CAPELLI", "nome": "Unghie, capelli e bomboniere", "x": 820, "y": 520 }
+  ]
+}

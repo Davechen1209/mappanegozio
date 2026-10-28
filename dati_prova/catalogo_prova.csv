@@ -1,0 +1,53 @@
+Cod.Art.;Descrizione;EAN13;Famiglia;Ubicazione;Sinonimi
+A001;Detersivo piatti limone 1L;2000000000015;Detersivi;11A;sapone piatti, detergente stoviglie
+A002;Sgrassatore universale spray 750ml;2000000000022;Detersivi;11A;sgrassatore, pulitore cucina
+A003;Pulitore forno spray 500ml;2000000000039;Detersivi;11A;sgrassatore forno, pulire forno
+A004;Candeggina classica 2L;2000000000046;Detersivi;11B;varechina, cloro
+A005;Detersivo lavatrice liquido 30 lavaggi;2000000000053;Detersivi;11B;detersivo bucato
+A006;Ammorbidente lavanda 2L;2000000000060;Detersivi;11B;ammorbidente bucato
+A007;Anticalcare bagno spray;2000000000077;Detersivi;11B;calcare, pulire doccia
+A008;Pellicola trasparente per alimenti 30m;2000000000084;Pellicole;11C;domopak, carta trasparente per il cibo, film alimentare
+A009;Carta alluminio 20m;2000000000091;Pellicole;11C;stagnola, carta stagnola
+A010;Carta forno 10m;2000000000107;Pellicole;11C;carta da forno
+A011;Sacchetti gelo 3L;2000000000114;Pellicole;11C;buste freezer, sacchetti congelatore
+A012;Pile stilo AA 4 pezzi;2000000000121;Elettricità;11C;batterie, pile AA
+A013;Pile ministilo AAA 4 pezzi;2000000000138;Elettricità;11C;batterie, pile AAA
+A014;Spugne abrasive 3 pezzi;2000000000145;Pulizia;11D;spugnette, paglietta
+A015;Panno microfibra;2000000000152;Pulizia;11D;straccio, panno pulizia
+A016;Guanti in lattice taglia M;2000000000169;Pulizia;11D;guanti pulizia, guanti gomma
+A017;Scopa con manico;2000000000176;Pulizia;12A;scopa
+A018;Paletta con scopino;2000000000183;Pulizia;12A;paletta, raccogli polvere
+A019;Secchio con strizzatore;2000000000190;Pulizia;12A;secchio mocio
+A020;Mocio in cotone;2000000000206;Pulizia;12A;mop, lavapavimenti
+A021;Sacchi spazzatura 50L 20 pezzi;2000000000213;Pulizia;12B;sacchetti immondizia, buste rifiuti
+A022;Pattumiera a pedale 20L;2000000000220;Pulizia;12B;cestino, bidone rifiuti
+B001;Padella antiaderente 28cm;2000000000237;Cucina;7A;padella, tegame
+B002;Pentola con coperchio 24cm;2000000000244;Cucina;7A;pentola, casseruola
+B003;Grattugia a 4 lati;2000000000251;Cucina;7B;grattugia formaggio
+B004;Apribottiglie e cavatappi;2000000000268;Cucina;7B;cavatappi, stappabottiglie
+B005;Apriscatole;2000000000275;Cucina;7B;apri lattine
+B006;Mestolo in nylon;2000000000282;Cucina;7B;mestolo, cucchiaio da cucina
+B007;Colino in acciaio;2000000000299;Cucina;7C;scolapasta piccolo, setaccio
+B008;Scolapasta in plastica;2000000000305;Cucina;7C;colapasta
+B009;Tagliere in legno;2000000000312;Cucina;7C;tagliere
+B010;Contenitori ermetici set 3 pezzi;2000000000329;Cucina;7D;tupperware, contenitori cibo
+B011;Accendigas elettronico;;Cucina;7D;accendino cucina, accendi fornelli
+C001;Candele profumate vaniglia;2000000000343;Candele;3A;candela profumata
+C002;Lumini tealight 50 pezzi;2000000000350;Candele;3A;lumini, candeline scaldavivande
+C003;Candele bianche lunghe 10 pezzi;2000000000367;Candele;3A;candele steariche
+C004;Portacandele in vetro;;Candele;3B;porta candela
+C005;Cornice portafoto 13x18;2000000000381;Casa;3B;cornice, portafoto
+C006;Cuscino arredo 40x40;2000000000398;Casa;3C;cuscino divano
+D001;Candeline di compleanno 24 pezzi;2000000000404;Feste;FESTE|7D;candeline torta, candeline numeri
+D002;Palloncini colorati 20 pezzi;2000000000411;Feste;FESTE;palloncini, balloon
+D003;Piatti di carta 20 pezzi;2000000000428;Feste;FESTE;piatti usa e getta
+D004;Bicchieri di plastica 50 pezzi;2000000000435;Feste;FESTE;bicchieri usa e getta
+D005;Festone Buon Compleanno;2000000000442;Feste;FESTE;striscione compleanno, banner
+E001;Calzini cotone 3 paia;2000000000459;Abbigliamento;ABBIGLIAMENTO;calze
+E002;Pantofole donna;2000000000466;Abbigliamento;ABBIGLIAMENTO;ciabatte
+E003;Guanti in pile;;Abbigliamento;ABBIGLIAMENTO;guanti invernali
+F001;Elastici per capelli 20 pezzi;2000000000480;Capelli;UNGHIE-CAPELLI;elastici, codini
+F002;Mollette per capelli;2000000000497;Capelli;UNGHIE-CAPELLI;fermagli, forcine
+F003;Smalto per unghie rosso;2000000000503;Unghie;UNGHIE-CAPELLI;smalto
+F004;Lima per unghie;2000000000510;Unghie;UNGHIE-CAPELLI;limetta
+F005;Sacchetti portaconfetti 10 pezzi;2000000000527;Bomboniere;UNGHIE-CAPELLI;bomboniere, confetti, sacchettini

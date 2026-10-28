@@ -1,0 +1,2 @@
+openpyxl>=3.1   # lettura dei file Excel
+pytest>=8       # test automatici
